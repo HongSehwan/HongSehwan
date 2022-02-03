@@ -1,4 +1,4 @@
-## 🧑🏻‍💻 개발이 좋아서 한시도 MacBook을 뗄 수 없는 개발자 홍세환입니다.
+## 🧑🏻‍💻 개발이 좋아서 한시도 MacBook을 뗄 수 없습니다.
 
 <!--
 **HongSehwan/HongSehwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
