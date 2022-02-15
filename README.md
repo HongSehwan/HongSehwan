@@ -2,7 +2,6 @@
 <a href="https://velog.io/@dormahd114"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dormahd114"/></a>
 <a href="gg9297@gmail.com"><img src="https://img.shields.io/badge/gg9297@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=gg9297@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/hong-79661b22b"><img src="https://img.shields.io/badge/SehwanHong-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/hong-79661b22b"/></a>
-![github배경화면](https://user-images.githubusercontent.com/85854164/154015001-adabbce6-0de7-4793-b620-3655470f3396.gif)
 
 **🛠 Front-end Tech Stack**
 
@@ -15,3 +14,5 @@
 **🖇 Others Tech Stack**
 
 <img src="https://img.shields.io/badge/Git.js-F05032?style=flat-square&logo=Git.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/GitHub.js-181717?style=flat-square&logo=GitHub.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/GitBook.js-3884FF?style=flat-square&logo=GitBook.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/Amazon AWS.js-232F3E?style=flat-square&logo=Amazon AWS.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/Amazon S3.js-569A31?style=flat-square&logo=Amazon S3.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/Postman.js-FF6C37?style=flat-square&logo=Postman.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion.js-000000?style=flat-square&logo=Notion.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/diagrams.net.js-F08705?style=flat-square&logo=diagrams.net.js&logoColor=white"/></a>
+
+![github배경화면](https://user-images.githubusercontent.com/85854164/154015001-adabbce6-0de7-4793-b620-3655470f3396.gif)
