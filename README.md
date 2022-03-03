@@ -1,4 +1,4 @@
-<div align="center"><h1>🧑🏻‍💻 개발이 좋아서 한시도 MacBook을 뗄 수 없습니다.</h1></div>
+<div align="center"><h1>🧑🏻‍💻 매일 발전하는 개발자 Sehwan Hong 입니다.</h1></div>
 <div align="center">
 <a href="https://velog.io/@dormahd114"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dormahd114"/></a>
 <img src="https://img.shields.io/badge/gg9297@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
