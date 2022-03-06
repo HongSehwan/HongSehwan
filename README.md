@@ -1,4 +1,4 @@
-<div align="center"><h1>🧑🏻‍💻 Today is better than yesterday</h1></div>
+<div align="center"><h1>🧑🏻‍💻 Hi! there!</h1></div>
 <div align="center">
 <a href="https://velog.io/@dormahd114"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dormahd114"/></a>
 <img src="https://img.shields.io/badge/gg9297@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
